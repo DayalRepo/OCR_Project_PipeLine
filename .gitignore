@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.local
+data/
+models/
+data/hf_dataset/
+*.safetensors
+*.pt
+*.bin
